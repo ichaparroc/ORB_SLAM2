@@ -4,7 +4,7 @@
 
 **Modification:** [Israel Chaparro], [Alvaro Rojas]
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/2X_SpBLudSA/0.jpg)](https://www.youtube.com/watch?v=2X_SpBLudSA)
+Youtube Video: [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/2X_SpBLudSA/0.jpg)](https://www.youtube.com/watch?v=2X_SpBLudSA)
 
 ORB-SLAM2 is a real-time SLAM library for **Monocular**, **Stereo** and **RGB-D** cameras that computes the camera trajectory and a sparse 3D reconstruction (in the stereo and RGB-D case with true scale). It is able to detect loops and relocalize the camera in real time. ORB-SLAM2 provides a GUI to change between a *SLAM Mode* and *Localization Mode*, see section 9 of this document.
 
