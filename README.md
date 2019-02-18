@@ -85,3 +85,9 @@ This will create **libORB_SLAM2.so**  at *lib* folder and the executable **mono_
 ```
 ./Examples/Monocular/mono_euroc Vocabulary/ORBvoc.txt Examples/Monocular/EuRoC.yaml . .
 ```
+
+![alt text](https://github.com/ichaparroc/ORB_SLAM2/raw/master/article-1.png)
+![alt text](https://github.com/ichaparroc/ORB_SLAM2/raw/master/article-2.png)
+![alt text](https://github.com/ichaparroc/ORB_SLAM2/raw/master/article-3.png)
+![alt text](https://github.com/ichaparroc/ORB_SLAM2/raw/master/article-4.png)
+
