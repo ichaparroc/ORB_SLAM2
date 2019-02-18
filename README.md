@@ -72,7 +72,7 @@ chmod +x build.sh
 ./build.sh
 ```
 
-This will create **libORB_SLAM2.so**  at *lib* folder and the executables **mono_tum**, **mono_kitti**, **rgbd_tum**, **stereo_kitti**, **mono_euroc** and **stereo_euroc** in *Examples* folder.
+This will create **libORB_SLAM2.so**  at *lib* folder and the executable **mono_euroc** in *Examples* folder.
 
 # 4. Monocular Examples
 
